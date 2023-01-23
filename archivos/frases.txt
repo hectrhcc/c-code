@@ -1,0 +1,2 @@
+vamos a ver si este programa de c que gestiona archivos funciona o no esto es una lista ya llegue a la segunda linea y sigo escribiendo para llegar a la tercera linea ya estoy ahi 
+
